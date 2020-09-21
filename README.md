@@ -69,8 +69,9 @@ When you no longer need the deployment, you can run this command to destroy it:
 
 ## Architecture Diagram
 
-
+![](./images/atg-logical-resource-grouping.png)
 
 
 ## Reference Archirecture
 
+- [Deploy Oracle Commerce Platform (ATG) on Oracle Cloud Infrastructure](https://docs.oracle.com/en/solutions/oci-atg/index.html)
